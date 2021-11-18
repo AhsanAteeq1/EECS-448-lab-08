@@ -1,0 +1,25 @@
+p
+{
+  color: green;
+  font-size: 15pt;
+}
+p.embedded
+{
+  color:red;
+}
+
+a
+{
+  color: white;
+}
+a:hover
+{
+  background-color: purple;
+  color: orange;
+  font-family: calibri; font-size: 25pt;
+}
+
+body
+{
+  background-image: url("black.png"); background-size: 57%; background-repeat: no-repeat;
+}
